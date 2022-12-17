@@ -14,5 +14,6 @@ void displayChessboard(Square **c, unsigned int n);
 bool move(Square **c, unsigned int n, int r1, int c1, int r2, int c2);
 bool threatened(Square **c, unsigned int n, int row, int col);
 void deleteChessboard(Square **c, unsigned int n);
+bool is_move_possible(Square source_sq, Square dest_sq, int r1, int c1, int r2, int c2);
 
 #endif /* EX01_LIBRARY_H_ */

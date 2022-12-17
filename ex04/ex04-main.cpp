@@ -2,7 +2,7 @@
 #include "ex04-library.h"
 using namespace std;
 
-int main() {
+int main_inh() {
     SensorBuffer *sb = new SensorBuffer(6);
     Buffer *b = sb; // Just an alias for 'sb' above, but using the superclass
 

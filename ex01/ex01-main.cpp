@@ -2,7 +2,7 @@
 #include "ex01-library.h"
 using namespace std;
 
-int main1() {
+int main() {
     Square **c = createChessboard(3);
     c[0][0] = {bishop, white};
     c[0][2] = {rook, white};
