@@ -1,0 +1,3 @@
+/Users/zee28/Documents/semester_5/cplus_programming/old_exams/dec_21/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zee28/Documents/semester_5/cplus_programming/old_exams/dec_21/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zee28/Documents/semester_5/cplus_programming/old_exams/dec_21/cmake-build-debug/CMakeFiles/dec_21.dir
